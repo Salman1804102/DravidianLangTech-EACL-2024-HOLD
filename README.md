@@ -56,7 +56,7 @@ A brief ranking of participating teams is shown in Table 5.
 
 After evaluating our model's performance, we conducted an error analysis to identify areas for improvement. We observed that:
 
-<img title="" src="Figures/conf.PNG" alt="">
+<img title="" src="conf.PNG" alt="">
 
 - **Ambiguous Contexts**: The model occasionally struggled with sentences where the context was ambiguous, leading to incorrect classifications of non-offensive text as offensive.
 - **Sarcasm and Irony**: Sarcasm and ironic statements were particularly challenging for the model, often resulting in false positives.
